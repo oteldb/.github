@@ -15,7 +15,7 @@ Based on [ClickHouse][clickhouse], fastest open-source (Apache 2.0) column-orien
 > Work in progress. Not ready for production use.
 
 Supported query languages:
-- [PromQL][promql] ([Prometheus][prometheus]) for metrics, [>99% compatibility][compliance]
+- [PromQL][promql] ([Prometheus][prometheus]) for metrics
 - [TraceQL][traceql] ([Grafana Tempo][tempo]) for traces
 - [LogQL][logql] ([Grafana Loki][loki]) for logs
 
@@ -26,4 +26,3 @@ Supported query languages:
 [prometheus]: https://prometheus.io/
 [loki]: https://grafana.com/oss/loki/
 [tempo]: https://grafana.com/oss/tempo/
-
